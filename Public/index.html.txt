@@ -1,4 +1,12 @@
-   Dosa Diner
+   <!DOCTYPE  html>
+   <html>
+   <head>
+      <title>Dosa Diner</title>
+      <meta charset="utf-8">
+   </head>
+
+   <body>
+    Dosa Diner
    
    The Restaurant
    The Dosa Diner offers casual lunch and dinner fare in a hip atmosphere. The menu changes regularly to highlight the freshest ingredients.
@@ -9,3 +17,7 @@
    Location and Hours
    Deccan Corner in Pune, India; Monday through Thursday 11am to 9pm, Friday and Saturday, 11am to midnight.
    
+   </body>
+   
+   </html>
+  
